@@ -1,4 +1,4 @@
-- 🤔 Fun Fact: Stop wasting your life reading this readME and go to update your respiratories!
+- 🤔 Fun Fact: Stop wasting your life reading this readME and go update your respiratories!
 
 <!---
 Conphyr/Conphyr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
